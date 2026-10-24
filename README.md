@@ -1,7 +1,12 @@
-# O Cartógrafo Digital - GiST para Dados Geoespaciais
+# O Cartógrafo Digital
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgis.net/)
+Estudo sobre índices GiST para dados geoespaciais com PostGIS
+
+Atividade de **Programação e Administração de Banco de Dados** (PABD) — IFRN.
+
+## Stack
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## O que é GiST?
 
